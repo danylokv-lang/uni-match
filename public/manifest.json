@@ -1,0 +1,13 @@
+{
+  "name": "Global UniMatch",
+  "short_name": "UniMatch",
+  "description": "Holiday-themed global university matcher.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0b1533",
+  "theme_color": "#39C6FF",
+  "icons": [
+    { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}

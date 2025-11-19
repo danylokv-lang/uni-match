@@ -1,0 +1,10 @@
+# Cloudflare Pages caching rules
+# Ensure HTML is never cached so new versions load immediately
+/*.html
+  Cache-Control: no-cache, no-store, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+
+# Strong cache for Next.js static assets (hashed)
+/_next/*
+  Cache-Control: public, max-age=31536000, immutable

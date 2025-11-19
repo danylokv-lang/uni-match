@@ -1,0 +1,8 @@
+- Clarify Project Requirements: Next.js (App Router) + TS + Tailwind holiday-themed university matcher with quiz, results, compare, and profile pages.
+- Scaffold the Project: Done. Manual Next.js-style structure created in current directory.
+- Customize the Project: Implemented quiz flow, matching logic, datasets, results, compare, and profiles. Holiday theme with snowfall + neon.
+- Install Required Extensions: None required.
+- Compile the Project: `npm run build` succeeds.
+- Create and Run Task: Not needed; use npm scripts.
+- Launch the Project: Run `npm run dev`.
+- Ensure Documentation is Complete: README contains setup and run steps.
