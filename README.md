@@ -2,33 +2,6 @@
 
 A festive, smart university matchmaker built with Next.js (App Router), TypeScript, and Tailwind CSS.
 
-## Quick Start (Windows PowerShell)
-
-1) Install dependencies
-
-```powershell
-Push-Location "c:\Users\WayofBlood\UniMatch"
-npm install
-Pop-Location
-```
-
-2) Run the dev server
-
-```powershell
-Push-Location "c:\Users\WayofBlood\UniMatch"; npm run dev; Pop-Location
-```
-
-3) Build and start (production)
-
-```powershell
-Push-Location "c:\Users\WayofBlood\UniMatch"; npm run build; npm run start; Pop-Location
-```
-
-4) Lint and format
-
-```powershell
-Push-Location "c:\Users\WayofBlood\UniMatch"; npm run lint; npm run format; Pop-Location
-```
 
 ## Pages
 
